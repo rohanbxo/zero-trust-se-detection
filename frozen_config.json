@@ -1,0 +1,24 @@
+{
+  "protocol": "All fitting/tuning on validation split; SEConvo test scored once afterwards.",
+  "T_securebert": 1.352680559437575,
+  "T_modernbert": 3.0570150952315673,
+  "R_block": 0.7838466763496399,
+  "T_block": 21.61533236503601,
+  "youden_J_val": 0.8791887125220459,
+  "T_permit": 82.8907470703125,
+  "R_permit": 0.17109252929687502,
+  "permit_percentile": 75,
+  "variant_thresholds": {
+    "SecureBERT only": 0.8067598342895508,
+    "ModernBERT only": 0.7235585451126099,
+    "Simple average (no training)": 0.7327985763549805,
+    "MLP fusion, no conflict": 0.8155131340026855,
+    "Proposed (MLP + conflict)": 0.7838466763496399
+  },
+  "checkpoints": [
+    "/drive/MyDrive/thesis_models/v3_leakfree/securebert_v3.pt",
+    "/drive/MyDrive/thesis_models/v3_leakfree/modernbert_v3_untruncated.pt",
+    "/drive/MyDrive/thesis_models/v3_leakfree/fusion_mlp_full_v3.pt",
+    "/drive/MyDrive/thesis_models/v3_leakfree/fusion_mlp_noconflict_v3.pt"
+  ]
+}

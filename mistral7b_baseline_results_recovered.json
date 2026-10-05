@@ -1,0 +1,31 @@
+{
+  "a_priori_threshold_50": {
+    "threshold": 50.0,
+    "f1": 0.6815642458100558,
+    "accuracy": 0.6833333333333333,
+    "recall": 0.6387434554973822,
+    "precision": 0.7305389221556886,
+    "auroc_on_parseable": 0.7894916199386599,
+    "n_unparseable": 0,
+    "TP": 122,
+    "FP": 45,
+    "FN": 69,
+    "TN": 124
+  },
+  "validation_youden_threshold": {
+    "threshold": 1.0,
+    "f1": 0.7436399217221135,
+    "accuracy": 0.6361111111111111,
+    "recall": 0.9947643979057592,
+    "precision": 0.59375,
+    "auroc_on_parseable": 0.7894916199386599,
+    "n_unparseable": 0,
+    "TP": 190,
+    "FP": 130,
+    "FN": 1,
+    "TN": 39
+  },
+  "auroc_all_360_neutral_imputed": 0.7894916199386599,
+  "n_recovered_regex": 48,
+  "n_recovered_forced": 0
+}
