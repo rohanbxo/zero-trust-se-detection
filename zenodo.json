@@ -1,0 +1,15 @@
+{
+  "title": "Code for \"Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks\"",
+  "upload_type": "software",
+  "description": "Code, frozen configuration, cached encoder outputs and the results file for the paper \"Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks\" (submitted to IEEE Access). The pipeline combines two calibrated transformer encoders (SecureBERT and ModernBERT) and an 81-parameter fusion layer into a trust score, which a NIST SP 800-207 Policy Decision Point maps to Full Access, Restricted or Blocked. Every number reported in the paper is generated from results_v3_final.json.",
+  "creators": [
+    {"name": "Saravana Kumar, D.", "affiliation": "Birla Institute of Technology and Science, Pilani, Dubai Campus"},
+    {"name": "Burugapalli, Rohan", "affiliation": "Birla Institute of Technology and Science, Pilani, Dubai Campus"},
+    {"name": "Muthalagu, Raja", "affiliation": "Birla Institute of Technology and Science, Pilani, Dubai Campus"},
+    {"name": "Somasundaram, A.", "affiliation": "Birla Institute of Technology and Science, Pilani, Dubai Campus"},
+    {"name": "Pawar, Pranav M.", "affiliation": "Birla Institute of Technology and Science, Pilani, Dubai Campus"}
+  ],
+  "keywords": ["social engineering detection", "Zero Trust Architecture", "online social networks", "calibration", "continuous verification", "distribution shift"],
+  "license": "mit",
+  "access_right": "open"
+}
