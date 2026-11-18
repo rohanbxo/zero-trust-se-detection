@@ -1,8 +1,11 @@
-# Zero Trust Enhanced Defense Mechanisms for Mitigating Social Engineering Exploitation in Online Social Networks
+# Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 Code, frozen configuration, cached model outputs and results for the paper
-*Zero Trust Enhanced Defense Mechanisms for Mitigating Social Engineering Exploitation in Online Social Networks*
-(D. Saravana Kumar, Burugapalli Rohan, Raja Muthalagu, Somasundaram A., Pranav M. Pawar; BITS Pilani, Dubai Campus).
+*Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks*
+by D. Saravana Kumar, Burugapalli Rohan, Raja Muthalagu, A. Somasundaram and Pranav M. Pawar
+(Birla Institute of Technology and Science, Pilani, Dubai Campus), submitted to *IEEE Access*.
 
 ## Overview
 
@@ -68,3 +71,23 @@ The paper is under review at *Online Social Networks and Media*. Citation detail
 ## License
 
 MIT (code). The datasets remain under their original licences.
+
+## Citation
+
+If you use this code, please cite the paper and this archived release:
+
+```bibtex
+@software{kumar2026conversationalzt_code,
+  author    = {Saravana Kumar, D. and Burugapalli, Rohan and Muthalagu, Raja and Somasundaram, A. and Pawar, Pranav M.},
+  title     = {Code for ``Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks''},
+  year      = {2026},
+  version   = {v1.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.XXXXXXX},
+  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+}
+```
+
+## License
+
+MIT (see `LICENSE`).
