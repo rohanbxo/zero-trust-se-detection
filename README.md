@@ -1,6 +1,6 @@
 # Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1405948772.svg)](https://doi.org/10.5281/zenodo.24333931)
 
 Code, frozen configuration, cached model outputs and results for the paper
 *Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks*
@@ -83,8 +83,8 @@ If you use this code, please cite the paper and this archived release:
   year      = {2026},
   version   = {v1.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.24333932},
+  url       = {https://doi.org/10.5281/zenodo.24333932}
 }
 ```
 
