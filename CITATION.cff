@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for \"Conversational Zero Trust: Turning Social Engineering Detection into Access Decisions on Online Social Networks\""
+type: software
+version: v1.0
+license: MIT
+repository-code: "https://github.com/rohanbxo/zero-trust-se-detection"
+authors:
+  - family-names: "Saravana Kumar"
+    given-names: "D."
+    affiliation: "Birla Institute of Technology and Science, Pilani, Dubai Campus"
+  - family-names: "Burugapalli"
+    given-names: "Rohan"
+    affiliation: "Birla Institute of Technology and Science, Pilani, Dubai Campus"
+  - family-names: "Muthalagu"
+    given-names: "Raja"
+    affiliation: "Birla Institute of Technology and Science, Pilani, Dubai Campus"
+  - family-names: "Somasundaram"
+    given-names: "A."
+    affiliation: "Birla Institute of Technology and Science, Pilani, Dubai Campus"
+  - family-names: "Pawar"
+    given-names: "Pranav M."
+    affiliation: "Birla Institute of Technology and Science, Pilani, Dubai Campus"
+keywords:
+  - social engineering detection
+  - Zero Trust Architecture
+  - online social networks
